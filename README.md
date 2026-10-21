@@ -171,7 +171,7 @@ Through this project, I aim to strengthen my understanding of:
 
 - GitHub: [@anukritigupta07](https://github.com/anukritigupta07)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/anukritigupta03)
-- Portfolio: [Visit my portfolio](https://anukritigupta-portfolio.vercel.app/)
+- Portfolio: [My portfolio](https://anukritigupta-portfolio.vercel.app/)
 
 ---
 
